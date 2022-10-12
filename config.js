@@ -11,12 +11,12 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Diogo',
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Theme
-	theme: 'bento',
+	theme: 'latte-mocha',
 	imageBackground: false,
 	
 	// Greetings
@@ -29,14 +29,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: '141ceeb09b22b39dbf5a93617ee4cb09', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
-
+  
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '41.545448',
+	defaultLongitude: '-8.426507',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -55,79 +55,79 @@ const CONFIG = {
 
 	firstButtonsContainer: [
 		{
-			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+		  id: '1',
+		  name: 'Github',
+		  icon: 'github',
+		  link: 'https://github.com/sassypocoyo',
 		},
 		{
-			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+		  id: '2',
+		  name: 'Mail',
+		  icon: 'mail',
+		  link: 'https://mail.google.com/mail/u/0/?pli=1',
 		},
 		{
-			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+		  id: '3',
+		  name: 'Twitter',
+		  icon: 'twitter',
+		  link: 'https://twitter.com/home',
 		},
 		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+		  id: '4',
+		  name: 'Music',
+		  icon: 'headphones',
+		  link: 'https://open.spotify.com',
 		},
 		{
-			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+		  id: '5',
+		  name: 'Calendar',
+		  icon: 'calendar',
+		  link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+		  id: '6',
+		  name: 'Youtube',
+		  icon: 'youtube',
+		  link: 'https://www.youtube.com',
 		},
 	],
 
 	secondButtonsContainer: [
 		{
-			id: '1',
-			name: 'Music',
-			icon: 'headphones',
-			link: 'https://open.spotify.com',
+		  id: '1',
+		  name: 'Music',
+		  icon: 'headphones',
+		  link: 'https://open.spotify.com',
 		},
 		{
-			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
+		  id: '2',
+		  name: 'twitter',
+		  icon: 'twitter',
+		  link: 'https://twitter.com/',
 		},
 		{
-			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+		  id: '3',
+		  name: 'bot',
+		  icon: 'bot',
+		  link: 'https://discord.com/app',
 		},
 		{
-			id: '4',
-			name: 'Amazon',
-			icon: 'shopping-bag',
-			link: 'https://amazon.com/',
+		  id: '4',
+		  name: 'Amazon',
+		  icon: 'shopping-bag',
+		  link: 'https://amazon.com/',
 		},
 		{
-			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+		  id: '5',
+		  name: 'Hashnode',
+		  icon: 'pen-tool',
+		  link: 'https://hashnode.com/',
 		},
 		{
-			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+		  id: '6',
+		  name: 'Figma',
+		  icon: 'figma',
+		  link: 'https://figma.com/',
 		},
 	],
 
@@ -142,42 +142,42 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				name: 'lo-fi girl',
+				link: 'https://youtu.be/5qap5aO4i9A',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				name: 'lo-fi chillhop',
+				link: 'https://youtu.be/7NOSDKb0HlU',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				name: 'lo-fi college music',
+				link: 'https://youtu.be/XDh0JcxrbPM',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+				name: 'homemade cappuccino',
+				link: 'https://www.youtube.com/channel/UCWIjaWowE7eDncdBJCdIclQ',
 				},
-			],
+		  	],
 		},
 		{
 			icon: 'coffee',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'blackboard',
+					link: 'https://elearning.uminho.pt',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'mail uminho',
+					link: 'https://outlook.office.com/mail',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'links',
+					link: 'https://cesiuminho.notion.site/Links-de-interesse-e38d9db579f5434d88715e5b4b66d043',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'notion',
+					link: 'https://www.notion.so/',
 				},
 			],
 		},
