@@ -30,7 +30,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '141ceeb09b22b39dbf5a93617ee4cb09', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Dark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
   
@@ -142,20 +142,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-				name: 'lo-fi girl',
-				link: 'https://youtu.be/5qap5aO4i9A',
+					name: 'lo-fi girl',
+					link: 'https://youtu.be/5qap5aO4i9A',
 				},
 				{
-				name: 'lo-fi chillhop',
-				link: 'https://youtu.be/7NOSDKb0HlU',
+					name: 'lo-fi chillhop',
+					link: 'https://youtu.be/7NOSDKb0HlU',
 				},
 				{
-				name: 'lo-fi college music',
-				link: 'https://youtu.be/XDh0JcxrbPM',
+					name: 'cappuccino',
+					link: 'https://www.youtube.com/channel/UCWIjaWowE7eDncdBJCdIclQ',
 				},
 				{
-				name: 'homemade cappuccino',
-				link: 'https://www.youtube.com/channel/UCWIjaWowE7eDncdBJCdIclQ',
+					name: 'discord',
+					link: 'https://discord.com/app',
 				},
 		  	],
 		},
@@ -172,12 +172,12 @@ const CONFIG = {
 					link: 'https://outlook.office.com/mail',
 				},
 				{
-					name: 'links',
-					link: 'https://cesiuminho.notion.site/Links-de-interesse-e38d9db579f5434d88715e5b4b66d043',
+					name: 'slack',
+					link: 'https://slack.com/',
 				},
 				{
-					name: 'notion',
-					link: 'https://www.notion.so/',
+					name: 'ticktick',
+					link: 'https://ticktick.com/webapp/#q/all/today',
 				},
 			],
 		},
