@@ -172,8 +172,8 @@ const CONFIG = {
 					link: 'https://outlook.office.com/mail',
 				},
 				{
-					name: 'slack',
-					link: 'https://slack.com/',
+					name: 'trello',
+					link: 'https://trello.com/',
 				},
 				{
 					name: 'ticktick',
