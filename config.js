@@ -143,7 +143,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'lo-fi girl',
-					link: 'https://youtu.be/5qap5aO4i9A',
+					link: 'https://youtu.be/jfKfPfyJRdk',
 				},
 				{
 					name: 'lo-fi chillhop',
