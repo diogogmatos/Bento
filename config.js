@@ -154,8 +154,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com/channel/UCWIjaWowE7eDncdBJCdIclQ',
 				},
 				{
-					name: 'discord',
-					link: 'https://discord.com/app',
+					name: 'catppuccin',
+					link: 'https://github.com/catppuccin/catppuccin',
 				},
 		  	],
 		},
